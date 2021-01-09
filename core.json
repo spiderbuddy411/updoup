@@ -1,0 +1,21 @@
+{
+  "core": [
+    {
+      "md5": [
+        "09de5e8d6e1317e5eb7838ed70962347"
+      ],
+      "build": "2",
+      "changes": [
+        "teste"
+      ]
+    },
+    {
+      "md5": [
+        "0eb2eb8d18a4fd72ff3084d0df2d7226"
+      ],
+      "build": "1",
+      "changes": [
+        "teste"
+      ]
+    }
+}
